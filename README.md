@@ -5,6 +5,8 @@
 
 > In this project, I built a Python deep learning model with LSTM to predict the future behavior of Petrobras stock prices. Based on the historical daily prices of Petrobras stocks from 2012 to 2018, the model predicts the opening prices of 2019.  
 
+The purpose of this project was to get started forecasting time series with LSTM models. I used a tutorial from [Derrick Mwiti]( https://www.kdnuggets.com/2018/11/keras-long-short-term-memory-lstm-model-predict-stock-prices.html), but I customized my model differently. I still have to create different versions and improve the results.  Stock market data is a great choice for this kind of study because it’s quite regular and widely available to everyone.	
+
 <!-- /TOC -->
 <h1>Table of Contents</h1>
  
@@ -20,8 +22,6 @@
 <!-- /TOC -->
 
 ## 1. Overview 
-
-The purpose of this project was to get started forecasting time series with LSTM models. I used a tutorial from [Derrick Mwiti]( https://www.kdnuggets.com/2018/11/keras-long-short-term-memory-lstm-model-predict-stock-prices.html), but I customized my model differently. I still have to create different versions and improve the results.  Stock market data is a great choice for this kind of study because it’s quite regular and widely available to everyone.	
 
 In this project I use Keras Long Short-Term Memory (LSTM) Model to Predict Petrobras Stock Prices. LSTMs are very powerful in sequence prediction problems because they're able to store past information. This is important here because the previous price of a stock is crucial in predicting its future price. 
 
