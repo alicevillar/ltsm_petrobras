@@ -32,7 +32,7 @@ In this project I use Keras Long Short-Term Memory (LSTM) Model to Predict Petro
 
 ## 2. Quick Start  
 
-[Checkout](https://nbviewer.jupyter.org/github/alicevillar/stock_market_prediction_lstm/blob/main/Untitled.ipynb) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser.
+[Checkout]( ) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser.
 
 ## 3. What is LSTM and how it works
 Long Short-Term Memory (LSTM) networks are a type of recurrent neural network capable of learning order dependence in sequence prediction problems. LSTMs have feedback connections, which enables it to process entire sequences of data (e.g. time series). Rather than treating each point in the sequence independently, LSTMs retains useful information about previous data in the sequence to help with the processing of new data points. As a result, LSTMs are particularly good at processing sequences of data such as text, speech and general time-series.
