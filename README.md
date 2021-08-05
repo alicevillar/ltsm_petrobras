@@ -31,7 +31,7 @@ Long Short-Term Memory (LSTM) networks are a type of recurrent neural network ca
 
 ## 4. Dataset  
 For this project I used the [Yahoo Finance]( https://finance.yahoo.com/quote/PBR?p=PBR&.tsrc=fin-srch) for the historical daily prices of Petrobras stocks.
-- Training dataset: historical daily prices of Petrobras stocks from 2013 to 2018
+- [Training dataset](https://github.com/alicevillar/ltsm_petrobras/blob/main/dataset_2012_2018.csv): historical daily prices of Petrobras stocks from 2012 to 2018
 - Test dataset: historical daily prices of Petrobras stocks of 2019
 
 ## 5. Approach
