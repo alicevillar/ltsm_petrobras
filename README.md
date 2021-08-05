@@ -57,7 +57,7 @@ For this project I used the [Yahoo Finance]( https://finance.yahoo.com/quote/PBR
 
 ## 7. Results  
 
-![print](petrobras.JPG)
+![print](petrobras_plot.JPG)
 
 
 ## 8. Useful  
