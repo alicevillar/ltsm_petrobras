@@ -3,7 +3,7 @@
 <h1>Stock market prediction using LSTM  </h1>  
 
 
-> In this project, I built a Python deep learning model with LSTM to predict the future behavior of Petrobras stock prices. Based on the historical daily prices of Petrobras stocks from 2013 to 2018, the model predicts the opening prices of 2019.  
+> In this project, I built a Python deep learning model with LSTM to predict the future behavior of Petrobras stock prices. Based on the historical daily prices of Petrobras stocks from 2012 to 2018, the model predicts the opening prices of 2019.  
 
 <!-- /TOC -->
 <h1>Table of Contents</h1>
@@ -26,7 +26,7 @@ Using a Keras Long Short-Term Memory (LSTM) Model to Predict Stock Prices. LSTMs
 ## 2. Quick Start  
 [Checkout](https://nbviewer.jupyter.org/github/alicevillar/stock_market_prediction_lstm/blob/main/Untitled.ipynb) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser.
 
-## 3. How does LSTM works?
+## 3. What is LSTM and how it works
 Long Short-Term Memory (LSTM) networks are a type of recurrent neural network capable of learning order dependence in sequence prediction problems. LSTMs have feedback connections, which enables it to process entire sequences of data (e.g. time series). Rather than treating each point in the sequence independently, LSTMs retains useful information about previous data in the sequence to help with the processing of new data points. As a result, LSTMs are particularly good at processing sequences of data such as text, speech and general time-series.
 
 ## 4. Dataset  
