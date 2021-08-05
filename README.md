@@ -21,9 +21,9 @@
 
 ## 1. Overview 
 
-This project uses Keras Long Short-Term Memory (LSTM) Model to Predict Stock Prices. LSTMs are very powerful in sequence prediction problems because they're able to store past information. This is important here because the previous price of a stock is crucial in predicting its future price. 
-
 The purpose of this project was to get started forecasting time series with LSTM models. I used a tutorial from [Derrick Mwiti]( https://www.kdnuggets.com/2018/11/keras-long-short-term-memory-lstm-model-predict-stock-prices.html), but I customized my model differently. I still have to create different versions and improve the results.  Stock market data is a great choice for this kind of study because it’s quite regular and widely available to everyone.	
+
+In this project I use Keras Long Short-Term Memory (LSTM) Model to Predict Petrobras Stock Prices. LSTMs are very powerful in sequence prediction problems because they're able to store past information. This is important here because the previous price of a stock is crucial in predicting its future price. 
 
 ## 2. Quick Start  
 [Checkout](https://nbviewer.jupyter.org/github/alicevillar/stock_market_prediction_lstm/blob/main/Untitled.ipynb) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser.
