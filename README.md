@@ -20,7 +20,7 @@
 <!-- /TOC -->
 
 ## 1. Overview 
-The purpose of this project was to get started forecasting time series with LSTM models. I used a tutorial from [Derrick Mwiti]( https://www.kdnuggets.com/2018/11/keras-long-short-term-memory-lstm-model-predict-stock-prices.html). Stock market data is a great choice for this because it’s quite regular and widely available to everyone.	
+The purpose of this project was to get started forecasting time series with LSTM models. I used a tutorial from [Derrick Mwiti]( https://www.kdnuggets.com/2018/11/keras-long-short-term-memory-lstm-model-predict-stock-prices.html), but I customized my model differently. Stock market data is a great choice for this because it’s quite regular and widely available to everyone.	
 Using a Keras Long Short-Term Memory (LSTM) Model to Predict Stock Prices. LSTMs are very powerful in sequence prediction problems because they're able to store past information. This is important here because the previous price of a stock is crucial in predicting its future price. 
 
 ## 2. Quick Start  
