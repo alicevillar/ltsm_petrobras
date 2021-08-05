@@ -32,13 +32,13 @@ Long Short-Term Memory (LSTM) networks are a type of recurrent neural network ca
 ## 4. Dataset  
 For this project I used the [Yahoo Finance]( https://finance.yahoo.com/quote/PBR?p=PBR&.tsrc=fin-srch) for the historical daily prices of Petrobras stocks.
 - [Training dataset](https://github.com/alicevillar/ltsm_petrobras/blob/main/dataset_2012_2018.csv): historical daily prices of Petrobras stocks from 2012 to 2018
-- Test dataset: historical daily prices of Petrobras stocks of 2019
+- [Test dataset](https://github.com/alicevillar/ltsm_petrobras/blob/main/dataset_2019.csv): historical daily prices of Petrobras stocks of 2019
 
 ## 5. Approach
 
 * PART 1: Data Handling -> Importing Data with Pandas, Cleaning Data, Data description.
 * PART 2: Data Analysis -> Supervised ML Technique:LSTM
-* PART 3: Valuation of the Analysis -> plotting results
+* PART 3: Valuation of the Analysis -> Plotting results
 
 ## 6. Dependencies  
 * [numpy](https://numpy.org/)
