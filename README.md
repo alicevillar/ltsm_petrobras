@@ -3,7 +3,7 @@
 <h1>Stock market prediction using LSTM  </h1>  
 
 
->  Python deep learning model with Keras Long Short-Term Memory (LSTM) Model to predict the future behavior of Petrobras stock prices.
+>  Python deep learning model with Keras Long Short-Term Memory (LSTM) to predict the future behavior of Petrobras stock prices.
 
 
 The purpose of this project was to get started forecasting time series with LSTM models. Based on the historical daily prices of Petrobras stocks from 2012 to 2018, the model predicts the opening prices of 2019. I used a tutorial from [Derrick Mwiti]( https://www.kdnuggets.com/2018/11/keras-long-short-term-memory-lstm-model-predict-stock-prices.html), but I customized my model differently. I still have to create different versions and improve the results. 
