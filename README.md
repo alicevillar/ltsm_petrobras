@@ -54,6 +54,8 @@ For this project I used the [Yahoo Finance]( https://finance.yahoo.com/quote/PBR
 
 ## 8. Resources  
 
-* [LSTM Networks | A Detailed Explanation](https://towardsdatascience.com/lstm-networks-a-detailed-explanation-8fae6aefc7f9)
-* [Using a Keras Long Short-Term Memory (LSTM) Model to Predict Stock Prices](https://www.kdnuggets.com/2018/11/keras-long-short-term-memory-lstm-model-predict-stock-prices.html)
+* [Towards Datas Cience - LSTM Networks | A Detailed Explanation](https://towardsdatascience.com/lstm-networks-a-detailed-explanation-8fae6aefc7f9)
+* [kd Nuggets - Using a Keras Long Short-Term Memory (LSTM) Model to Predict Stock Prices](https://www.kdnuggets.com/2018/11/keras-long-short-term-memory-lstm-model-predict-stock-prices.html)
+* [PUC Goiais - Seleção de portfólio de ações por meio de otimização metaheurística híbrida com redes neurais LSTM](http://tede2.pucgoias.edu.br:8080/bitstream/tede/4512/2/Danilo%20Alc%c3%a2ntara%20Milhomem.pdf)
+* [Medium - Deep Learning and Portfolio Management](https://medium.com/geekculture/deep-learning-and-portfolio-management-b3b983528a06)
 
