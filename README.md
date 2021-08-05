@@ -39,7 +39,7 @@ For this project I used the [Yahoo Finance]( https://finance.yahoo.com/quote/PBR
 ## 5. Approach
 
 * PART 1: Data Handling -> Importing Data with Pandas, Cleaning Data, Data description.
-* PART 2: Data Analysis -> Supervised ML Technique:LSTM
+* PART 2: Data Analysis -> Supervised ML Technique: LSTM algorithm 
 * PART 3: Valuation of the Analysis -> Plotting results
 
 ## 6. Dependencies  
