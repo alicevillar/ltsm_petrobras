@@ -1,7 +1,7 @@
  
-Deep Learning model with LSTM to predict the future behavior of Petrobras stock prices
+ 
+<h1>Stock market prediction using LSTM  </h1>  
 
-<h1> Stock market prediction using LSTM </h1>
 
 > In this project, I built a Python deep learning model with LSTM to predict the future behavior of Petrobras stock prices. Based on the historical daily prices of Petrobras stocks from 2013 to 2018, the model predicts the opening prices of 2019.  
 
@@ -49,7 +49,7 @@ For this project I used the [Yahoo Finance]( https://finance.yahoo.com/quote/PBR
 
 ## 7. Results  
 
-![print](accuracy_comparison_graph.png)
+![print](petrobras.JPG)
 
 
 ## 8. Resources  
